@@ -1,2 +1,2 @@
 # https://amankedia265.github.io/ak/
-My Personal Website
+My Basic Personal Website that I created during my first year.
